@@ -1,5 +1,5 @@
 ﻿# Nerf Target/Alarm Clock
-This project is a small alarm clock that is deactivated by the impact of a nerf dart. It uses some LED's connected to an Arduino board to operate.
+This project is a small alarm clock that is deactivated by the impact of a nerf dart. It uses some LED's connected to an Arduino board to operate. The clock is calibrated using an oscillometer by recognizing similar patterns in a change in voltage, and using these patterns we can write an algorithm to recognize when the nerf dart hits and disable the alarm. This alarm clock also displays time using the LED lights, and as well as a clock, it serves as a nerf target whenever I need it.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -8,7 +8,7 @@ This project is a small alarm clock that is deactivated by the impact of a nerf 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXxO2NAix_UHZqhKbR0_yUSqJ13SZYBCzEKlT49LGyTo6AnGnMQwYPeFEVjm0XkGqb4K8YLoDKk3O8TDLQkm6bSboWW7a4QQYuqYfjVXYR5P8v0ww8n9wkq0dWff-4rqtbZzTKWc5plo5MwvwkrZ0Q=s1578-no?authuser=0)
 
 # Starter Project
-My starter project this summer was the "Useless Machine." This machine simply uses an arm to reset the position of a swith that you toggle. It operates using a PCB that contains a switch and a pressure activated lever. The pressure activated lever is completely pressed when the arm is at rest. When the switch is toggled, the motor moves the arm towards the switch, and simultaneously relieves pressure on the lever. When the arm toggles off the switch, it sends another signal to the motor telling it to move the arm away from the switch, causing the arm to also push down on the lever until the lever is fully compressed. It repeats this process once the switch is manually toggled again.
+My starter project this summer was the "Useless Machine." This machine simply uses an arm to reset the position of a swith that you toggle. It operates using a PCB that contains a switch and a pressure activated lever. The pressure activated lever is completely pressed when the arm is at rest. When the switch is toggled, the motor moves the arm towards the switch, and simultaneously relieves pressure on the lever. When the arm toggles off the switch, it sends another signal to the motor telling it to move the arm away from the switch, causing the arm to also push down on the lever until the lever is fully compressed. It repeats this process once the switch is manually toggled again. 
 
 [![First Milestone](https://i3.ytimg.com/vi/L8_Psk7M8gM/maxresdefault.jpg)](https://www.youtube.com/watch?v=L8_Psk7M8gM&feature=emb_logo "Starter Project")
 
