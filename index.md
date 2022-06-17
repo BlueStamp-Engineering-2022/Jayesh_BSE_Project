@@ -1,12 +1,17 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Nerf Target/Alarm Clock
+This project is a small alarm clock that is deactivated by the impact of a nerf dart. It uses some LED's connected to an Arduino board to operate.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Jayesh Kankanala | St. Francis High School | Mechanical Engineering | Incoming Freshman
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
-  
+![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXxO2NAix_UHZqhKbR0_yUSqJ13SZYBCzEKlT49LGyTo6AnGnMQwYPeFEVjm0XkGqb4K8YLoDKk3O8TDLQkm6bSboWW7a4QQYuqYfjVXYR5P8v0ww8n9wkq0dWff-4rqtbZzTKWc5plo5MwvwkrZ0Q=s1578-no?authuser=0)
+
+# Starter Project
+My starter project this summer was the "Useless Machine." This machine simply uses an arm to reset the position of a swith that you toggle. It operates using a PCB that contains a switch and a pressure activated lever. The pressure activated lever is completely pressed when the arm is at rest. When the switch is toggled, the motor moves the arm towards the switch, and simultaneously relieves pressure on the lever. When the arm toggles off the switch, it sends another signal to the motor telling it to move the arm away from the switch, causing the arm to also push down on the lever until the lever is fully compressed. It repeats this process once the switch is manually toggled again.
+
+[![First Milestone](https://i3.ytimg.com/vi/L8_Psk7M8gM/maxresdefault.jpg)](https://www.youtube.com/watch?v=L8_Psk7M8gM&feature=emb_logo "Starter Project")
+
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
