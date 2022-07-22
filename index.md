@@ -3,7 +3,7 @@ This project is a small alarm clock that is deactivated by the impact of a nerf 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Jayesh Kankanala | St. Francis High School | Mechanical Engineering | Incoming Freshman
+| Jayesh | St. Francis High School | Mechanical Engineering | Incoming Freshman
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXxO2NAix_UHZqhKbR0_yUSqJ13SZYBCzEKlT49LGyTo6AnGnMQwYPeFEVjm0XkGqb4K8YLoDKk3O8TDLQkm6bSboWW7a4QQYuqYfjVXYR5P8v0ww8n9wkq0dWff-4rqtbZzTKWc5plo5MwvwkrZ0Q=s1578-no?authuser=0)
 
