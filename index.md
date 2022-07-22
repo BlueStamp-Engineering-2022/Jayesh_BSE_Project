@@ -1,5 +1,5 @@
 ﻿# Nerf Target/Alarm Clock
-This project is a small alarm clock that is deactivated by the impact of a nerf dart. It uses some LED's connected to an Arduino board to operate. The clock is calibrated using an oscillometer by recognizing similar patterns in a change in voltage, and using these patterns we can write an algorithm to recognize when the nerf dart hits and disable the alarm. This alarm clock also displays time using the LED lights, and as well as a clock, it serves as a nerf target whenever I need it.
+This project is a small alarm clock that is deactivated by the impact of a nerf dart. It uses some LEDs connected to an Arduino board to operate. The clock is calibrated using an oscillometer by recognizing similar patterns in a change in voltage, and using these patterns we can write an algorithm to recognize when the nerf dart hits and disable the alarm. This alarm clock also displays time using the LED lights, and as well as a clock, it serves as a nerf target whenever I need it.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -8,12 +8,12 @@ This project is a small alarm clock that is deactivated by the impact of a nerf 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXxO2NAix_UHZqhKbR0_yUSqJ13SZYBCzEKlT49LGyTo6AnGnMQwYPeFEVjm0XkGqb4K8YLoDKk3O8TDLQkm6bSboWW7a4QQYuqYfjVXYR5P8v0ww8n9wkq0dWff-4rqtbZzTKWc5plo5MwvwkrZ0Q=s1578-no?authuser=0)
 
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone is to increase the reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My final milestone is to increase the reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
